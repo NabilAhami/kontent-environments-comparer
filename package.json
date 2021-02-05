@@ -7,6 +7,9 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "vue": {
+    "publicPath": "/kontent-environments-comparer/"
+  },
   "dependencies": {
     "core-js": "^3.6.5",
     "diff": "^5.0.0",
