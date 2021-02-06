@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "vue": {
-    "publicPath": "/kontent-environments-comparer/"
+    "publicPath": "/"
   },
   "dependencies": {
     "core-js": "^3.6.5",
